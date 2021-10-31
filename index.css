@@ -1,0 +1,25 @@
+.container{
+   
+    display: flex;
+    justify-content: space-around;
+   
+    
+}
+.jump {
+    max-height: 8%;
+    max-width: 8%;
+    position: absolute;
+    top: 50%;
+}
+.jump2 {
+    max-height: 8%;
+    max-width: 8%;
+    position: absolute;
+    top: 40%;
+}
+.body {
+    max-height: 8%;
+    max-width: 8%;
+    position: absolute;
+    top: 50%;
+}
